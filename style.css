@@ -16,8 +16,9 @@ padding: 30px;
 #main-header {
 padding: 30px;
 font-size: 22px;
+}
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  font-style: italic;
+  font-style: italic
 }
